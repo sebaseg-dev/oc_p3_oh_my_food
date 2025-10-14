@@ -34,7 +34,7 @@ Source code of **Project 3 - Oh My Food**: *Animate a webpage with CSS animation
 | ![Home page desktop](./assets/screenshots/homepage_1440x1024.png) | ![Restaurant page desktop](./assets/screenshots/restaurant_1440x1024.png) |
 | ![Home page mobile](./assets/screenshots/homepage_390x844.png)    | ![Restaurant page mobile](./assets/screenshots/restaurant_390x844.png)    |
 
-🔗 [Live preview](https://sedomu.github.io/oc_p3_ohmyfood/)
+🔗 [Live preview](https://sedomu.github.io/oc-projet3/)
 
 ---
 
